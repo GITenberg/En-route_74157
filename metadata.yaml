@@ -1,0 +1,38 @@
+_repo: En-route_74157
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Huysmans, J.-K. (Joris-Karl)
+    aliases:
+    - Huysmans, Joris Karl
+    - Huysmans, Charles-Marie-Georges
+    - Huysmans, Jorris-Karl
+    - Huysmans, Jaris-Karl
+    - Huysmans, Joris-Karl
+    birthdate: 1848
+    deathdate: 1907
+    gutenberg_agent_id: '4324'
+    url: http://www.gutenberg.org/2009/agents/4324
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Joris-Karl_Huysmans
+    - https://fr.wikipedia.org/wiki/Joris-Karl_Huysmans
+description: ''
+gutenberg_issued: '2024-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74157'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k663323
+pgterms:marc905: 20240724135740huysmans
+pgterms:marc906: '1895'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bP. V. Stock, $c1895, copyright 1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: En route
+url: http://www.gutenberg.org/ebooks/74157
